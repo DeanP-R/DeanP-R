@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DeanP-R
+- 👀 I’m interested in Robotics, Embedded Systems and Automation!
+- 🌱 I’m currently learning Python & Fusion 360!
+- 📫 How to reach me -> www.linkedin.com/in/dean-rowlett
